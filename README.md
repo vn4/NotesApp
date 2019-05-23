@@ -1,5 +1,6 @@
 # NotesApp
 Notes App using Node.js &amp; javascript
+
 Functionalities include adding, removing, listing, and reading notes through the terminal or command line.
 
 ## Motivation
