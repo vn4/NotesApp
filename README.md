@@ -44,3 +44,6 @@ node app.js read --title=""
 
 ## Credits
 Project idea was given by this course: https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+## Troubleshooting
+Email me at `vincent.n@live.com` for any questions.
