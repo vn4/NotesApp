@@ -12,7 +12,7 @@ Clone the repository onto your machine. You'll want to have the latest version o
 ## How to use
 There are 4 basic functionalities, which include adding, removing, listing, and reading notes. These commands are to be typed in the terminal/command line. Make sure you're in the correct folder.
 
-1. Adding: insert your title in between the quotations following `title=` and your notes content in between the quotations following body=
+1. Adding: insert your title in between the quotations following `title=` and your notes content in between the quotations following `body=`
 A note will be added to notes.json
 ```
 node app.js add --title="" --body=""
